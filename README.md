@@ -1,2 +1,32 @@
-# Quote-Generator
-The Quote Generator is a simple ReactJS project that fetches random quotes from an API and displays them. Users can generate a new quote by clicking a button. The application is lightweight, responsive, and visually appealing.
+# 📜 Quote Generator
+
+> A simple React app that fetches random quotes from an API and displays them. Click a button to generate a new quote instantly.
+
+---
+
+## 📌 Features
+✅ Fetches a random quote from the API  
+✅ Displays the quote and author  
+✅ Button to get a new quote  
+✅ Simple and responsive UI  
+
+---
+
+## 📸 Screenshot
+![Quote Generator Screenshot](./screenshot.png)
+
+---
+
+## 🛠️ Tech Stack
+- **ReactJS** ⚛️  
+- **JavaScript (ES6+ )**  
+- **CSS for Styling** 🎨  
+
+---
+
+## 🚀 Installation & Usage
+
+1️⃣ Clone the repository  
+```sh
+git clone https://github.com/your-username/quote-generator.git
+cd quote-generator

@@ -12,10 +12,6 @@
 
 ---
 
-## 📸 Screenshot
-![Quote Generator Screenshot](./screenshot.png)
-
----
 
 ## 🛠️ Tech Stack
 - **ReactJS** ⚛️  
